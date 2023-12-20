@@ -1,6 +1,6 @@
-@extends('layouts.app');
+@extends('layouts.app')
 
-@section('title', $movie -> title);
+@section('title', $movie -> title)
 
 @section('content')
 
